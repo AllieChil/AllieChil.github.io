@@ -9,8 +9,8 @@ body {
 } header, footer {
   background-color: #ffa500;
   text-align: left;
-  min-width: 500px;
-}
+  /*min-width: 500px;
+}*/
 header {
   font-family: Work Sans;
   color: #fff;
